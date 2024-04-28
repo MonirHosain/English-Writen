@@ -1,25 +1,3 @@
-<pre>
- from - হতে 
- subject - বিষয় 
- dear - প্রিয় 
- take - নেওয়া 
- my - আমার 
- love - ভালবাসা 
- core - গভীর 
- heart - হৃদয় 
- hope - আশা করা 
- grace - দয়া 
- almighty - মহৎ 
- recived - গ্রহন করা 
- yesterday - আগামীকাল 
- glad - আনন্দিত 
- know - জানা 
- convey - বহন করা 
- regards - শুভেচ্ছা 
- parents - বাবা-মা 
- youngers - ছোটদের 
-</pre>
-
 | Word      | Meaning   | Pronunciation (উচ্চারণ) |
 | --------- | --------- | ----------------------- |
 | From      | হতে       |                         |
